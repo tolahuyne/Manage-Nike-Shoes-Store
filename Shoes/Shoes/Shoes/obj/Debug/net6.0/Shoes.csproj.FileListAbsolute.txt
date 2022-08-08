@@ -1,0 +1,15 @@
+D:\workspace\Shoes\Shoes\Shoes\bin\Debug\net6.0\Shoes.exe
+D:\workspace\Shoes\Shoes\Shoes\bin\Debug\net6.0\Shoes.deps.json
+D:\workspace\Shoes\Shoes\Shoes\bin\Debug\net6.0\Shoes.runtimeconfig.json
+D:\workspace\Shoes\Shoes\Shoes\bin\Debug\net6.0\Shoes.dll
+D:\workspace\Shoes\Shoes\Shoes\bin\Debug\net6.0\Shoes.pdb
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.csproj.AssemblyReference.cache
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.AssemblyInfoInputs.cache
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.AssemblyInfo.cs
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.csproj.CoreCompileInputs.cache
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.dll
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\refint\Shoes.dll
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.pdb
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\Shoes.genruntimeconfig.cache
+D:\workspace\Shoes\Shoes\Shoes\obj\Debug\net6.0\ref\Shoes.dll
